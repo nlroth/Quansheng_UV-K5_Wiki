@@ -8,5 +8,5 @@ Label | Typ | Web
 <img width="260" alt="image" src="https://github.com/ludwich66/Quansheng_UV-K5_Firmware/assets/12202733/2ac0fd52-da16-4d49-8288-1c4e214cac26">  | handy-todo-radio-multibanda-2023  |  https://todoradio.cl/producto/handy-todo-radio-multibanda-2023/
 <img width="260" alt="image" src="https://github.com/ludwich66/Quansheng_UV-K5_Firmware/assets/12202733/0c8d070d-3076-4da8-82e5-bc9d6853a3fd">  | UV-K5, UV-K5(8)  | https://www.alafone.com
 <img width="260" alt="image" src="https://github.com/ludwich66/Quansheng_UV-K5_Firmware/assets/12202733/d124e2df-1e3f-4281-8e60-639507247883">  |   | 
-<img width="260" alt="image" src="https://github.com/ludwich66/Quansheng_UV-K5_Firmware/assets/12202733/b03e00f7-21aa-40eb-9837-6e6ef41cd3d8">  |   | 
+<img width="260" alt="image" src="https://github.com/ludwich66/Quansheng_UV-K5_Firmware/assets/12202733/b03e00f7-21aa-40eb-9837-6e6ef41cd3d8">  | K5  | 
 
