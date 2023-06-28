@@ -3,6 +3,7 @@
 * [Media & Hacks](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Hacks---Media)
 * [Manual_EN](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Manual_EN)
 * [Manual_DE](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Manual_DE)
+* [Approvals & Certificates](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Approvals-and-Certificates)
 # [Hardware](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Hardware)
 * [PCB_Frontside](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/PCB_Frontside)
 * [PCB_Backside](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/PCB_Backside)
