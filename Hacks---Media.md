@@ -15,5 +15,5 @@ https://github.com/Tunas1337/UV-K5-Modded-Firmwares/releases/tag/v0.1
 
 https://mikhail-yudin.ru/notes/quansheng-uv-k5-opyt-raboty/
 
-[Tiago A Oliveira - PY4ROE](https://www.youtube.com/@PY4ROE)
+[Open UV-K5, Tiago A Oliveira - PY4ROE](https://www.youtube.com/@PY4ROE)
 
