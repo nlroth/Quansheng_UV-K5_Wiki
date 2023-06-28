@@ -8,6 +8,7 @@
 * [PCB_Backside](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/PCB_Backside)
 * [Antenna](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Antenna)
 * [Battery](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Battery)
+* [Scematik_Charger KiCad](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Schematik_Charger)
 * [Parts](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Parts)
 * [Programming-Cable](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Programming-Cable)
 # [Software](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Software)
