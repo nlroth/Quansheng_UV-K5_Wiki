@@ -18,6 +18,8 @@ Deep-Discharge-Protection: 5,3V Cutoff
 # 6. Schematik (KiCad) 
 # 7. Parts
 
+
+
 Label | Typ | Name | Pin | Case | Manufacturer | Datasheet-Link | Param1 | Param2 | Param3
 -- | -- | -- | -- | -- | -- | -- | -- | -- | --
 WA | Zenerdiode | PZU10*A/DG | 2 |   | NXP |   | 1,0V |   |  
@@ -28,7 +30,7 @@ R24 |   | 2SC3356 |   | SOT-23 |   |   |   |   |  
 R24 SC-70 |   | 2SC4226 |   | SOT-323 |   |   |   |   |  
 UD |   | KDS114E |   |   |   |   |   |   |  
 TY |   | 1SS241 |   |   |   |   |   |   |  
-2TY | PNP | S8550 | 3 |   |   |   |   |   |  
+2TY | PNP | S8550 | 3 |   |   | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/S8550-2TY-PNP_Datasheet.pdf |   |   |  
 P6003 |   |   | 3 |   |   |   |   |   |  
 NJ |   |   | 3 |   |   |   |   |   |  
 BK1080 | FM Receiver IC | BK1080 Beken | 4 x 6 |   | Beken | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/BK1080_Datasheet_V2.7.pdf |   |   |  
@@ -39,13 +41,14 @@ DP32G030 | MicControler |   |   |   | Action Dynamic Tech.(HK) Trading Co. | 
 LBF32G030 | MicControler |   |   |   |   |   |   |   |  
 LN4898 | AudioAmpl. | Natlinear LN4898 | 2 x 4 | SOP8 | Natlinear | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/LN4898_Datasheet.pdf | 1W |   |  
 BL24C64 | EEPROM | Two-wire Serial EEPROM |   | JEDEC SOIC | Shanghai Belling Corp., Ltd | https://github.com/ludwich66/Quansheng_UV-K5_Firmware/blob/main/hardware/BL24C64_Datasheet.pdf | 64K 8192*8 |   |  
-2301A | P-Mosfet | Si2301DS | 3 | TO-236 (SOT-23) | Vishay |   | 2,5V |   | 1,25W
+2301A | P-Mosfet | Si2301DS | 3 | TO-236 (SOT-23) | Vishay | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/2301A_SI2301_Datasheet.pdf | 2,5V |   | 1,25W
 C4 | DualPowermanagemet Transistor | EMC4 / UMC4N / FMC4A | 5 |   |   |   |   |   |  
 AN26.0 |   |   |   |   |   |   |   |   |  
-Q533 | LDO | AQ533 | 3 | SOT89 | acutechnoligy |   | 3,3V |   |  
+Q533 | LDO | AQ533 | 3 | SOT89 | acutechnoligy | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/AQ533_AcutechnologySemiconductor.pdf | 3,3V |   |  
   | LCD | FG12864390-FKFW | 12 |   |   |   | 128x64 px |   |  
 AO8814 | Mosfet |   |   |   | Alpha & Omega Semiconductor, Ltd. |   |   |   |  
-  |   |   |   |   |   |   |  
+more... |   |   |   |   |   |   |  
+
 
 
 
