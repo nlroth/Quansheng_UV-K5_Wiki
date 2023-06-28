@@ -2,6 +2,8 @@
 * [Brands](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Brands)
 * [Manual_EN](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Manual_EN)
 # [Hardware](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Hardware)
+* [PCB_Frontside](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/PCB_Frontside)
+* [PCB_Backside](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/PCB_Backside)
 * [Battery](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Battery)
 * [Programming-Cable](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Programming-Cable)
 # [Software](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Software)
