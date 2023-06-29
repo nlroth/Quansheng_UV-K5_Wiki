@@ -12,6 +12,7 @@
 * [Schematic_RX](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Schematic_RX)
 * [Schematic_TX](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Schematic_TX)
 * [Schematic_Charger KiCad](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Schematic_Charger)
+* [Schematic_Akku](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Schematic_Akku)
 * [Programming-Cable](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Programming-Cable)
 * [Parts](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Parts)
 # [Software](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Software)
