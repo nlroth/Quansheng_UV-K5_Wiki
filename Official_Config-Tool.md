@@ -1,1 +1,1 @@
-Portable Radio CPS
+[Cheat Code for Special-Menu](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Hidden)
