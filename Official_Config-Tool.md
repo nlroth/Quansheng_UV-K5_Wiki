@@ -1,1 +1,1 @@
-[Cheat Code for Special-Menu](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Hidden)
+* [Cheat Code for Special-Menu "Advance para"](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/Hidden)
