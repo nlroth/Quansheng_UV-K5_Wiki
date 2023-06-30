@@ -1,4 +1,4 @@
-1. Cheat code for Portable Radio CPS V1.0.38 Windos-Program<br>
+1. Cheat code for Portable Radio CPS V1.0.38 Windows-Program<br>
 Show special submenu **"Advance para"**<br>
 to show: type qs975gcms<br>
 to hide: type rmgcms<br>
