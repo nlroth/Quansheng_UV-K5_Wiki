@@ -17,13 +17,13 @@ BK7IKD<br>
 
 USB-C Port | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12
 -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | --
-  | GND | Vcc | A8/B8 | CC | d- | d+ | d- | d+ | A8/B8 | CC | Vcc | GND
-  |   ┃  | ┃  |  |  |  |  |  |  |  |  | ┃ | gnd
-  |   ┃  | 5,1kΩ |                       |  |  |  |  |  |  |  | 5,1kΩ | 
-  |   ┃  | ┃   |  |  |  |  |  |  |  |  | ┃ | gnd
-  |   ┗  | ┻ | ━━| ━  | ━  | ━  | ━  | ━ | ━━   | ━ | ┛ | 
+  | **GND**| **Vcc** | A8/B8 | CC | d- | d+ | d- | d+ | A8/B8 | CC | **Vcc** | **GND**
+  |   ┃  |   |  |┃  |  |  |  |  |  |┃  |  | gnd
+  |   ┃  |  |   | 5,1kΩ |  |  |  |  |  | 5,1kΩ |  | 
+  |   ┃  |    |  | ┃ |  |  |  |  |  | ┃ |  | gnd
+  |   ┗  | ┻ | ━━| ━  | ━  | ━  | ━  | ━ | ━━   |┛|  | 
 
-Insert 2 resistors of 5.1 kΩ each from ground to the CC pins (A5 / B5). This hack requires a good eye and good nerves ;-)
-
+Insert 2 resistors of 5.1 kΩ each from ground to the CC pins (A5 / B5). This hack requires a good eye and good nerves ;-)<br>
+Wiring the two configuration pins (Pin3 / Pin10 with 5.1kΩ signals the PD charger that it can apply 5V. Without this combination, no voltage is applied.
 
 ↧↥ ⇅ 
