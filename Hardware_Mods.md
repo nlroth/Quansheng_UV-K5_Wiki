@@ -13,7 +13,7 @@ BK7IKD<br>
 <br>
 [YT-Video "Quansheng uv-k5 - audio Hi-Cut (1nF capacitor) hardware mod. AirBand test." from Andrzej Kuczwara](https://www.youtube.com/watch?v=j4ccuYOg2NU)
 <br>
-# 2. Possiblity to use USB-PD-Cable (USB-C-to-USB-C) or USB-A-to-USB-C-Cable
+# 2. Add possiblity to use USB-PD-Cable (USB-C-to-USB-C) or USB-A-to-USB-C-Cable
 
 USB-C Port | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12
 -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | --
