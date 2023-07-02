@@ -21,7 +21,7 @@ USB-C Port | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12
   |   ┃  |   |  |┃  |  |  |  |  |  |┃  |  | gnd
   |   ┃  |  |   | 5,1kΩ |  |  |  |  |  | 5,1kΩ |  | 
   |   ┃  |    |  | ┃ |  |  |  |  |  | ┃ |  | gnd
-  |   ┗  | ┻ | ━━| ━  | ━  | ━  | ━  | ━ | ━━   |┛|  | 
+  |   ┗  | ━ | ━━|┻  | ━  | ━  | ━  | ━ | ━━   |┛|  | 
 
 <img width="600" alt="image" src="https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/c36c19d0-7a4b-4ed0-b442-51c84e6e5610">
 
