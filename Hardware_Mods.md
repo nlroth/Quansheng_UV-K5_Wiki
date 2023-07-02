@@ -17,10 +17,13 @@ BK7IKD<br>
 
 USB-C Port | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12
 -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | --
-  | Gnd | vcc | A8/B8 | CC | d- | d+ | d- | d+ | A8/B8 | CC | vcc | gnd
+  | GND | Vcc | A8/B8 | CC | d- | d+ | d- | d+ | A8/B8 | CC | Vcc | GND
   |   ┃  | ┃  |  |  |  |  |  |  |  |  | ┃ | gnd
   |   ┃  | 5,1kΩ |                       |  |  |  |  |  |  |  | 5,1kΩ | 
   |   ┃  | ┃   |  |  |  |  |  |  |  |  | ┃ | gnd
   |   ┗  | ┻ | ━━| ━  | ━  | ━  | ━  | ━ | ━━   | ━ | ┛ | 
+
+Insert 2 resistors of 5.1 kΩ each from ground to the CC pins (A5 / B5). This hack requires a good eye and good nerves ;-)
+
 
 ↧↥ ⇅ 
