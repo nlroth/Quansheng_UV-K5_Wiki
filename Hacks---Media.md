@@ -17,3 +17,6 @@ https://mikhail-yudin.ru/notes/quansheng-uv-k5-opyt-raboty/
 
 [YT Video: Open UV-K5, Tiago A Oliveira - PY4ROE](https://www.youtube.com/@PY4ROE)
 
+About BEKEN Chip:
+https://github.com/pu2clr/BK108X
+
