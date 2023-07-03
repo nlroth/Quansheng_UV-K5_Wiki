@@ -19,7 +19,7 @@ Insert 2 resistors of 5.1 kΩ each from ground to the CC pins (A5 / B5). This ha
 Wiring the two configuration pins CC with 5.1kΩ resistor signals the PD charger that it can apply 5V.<br> Without this resistor-combination, no voltage is applied.
 <br>
 <br>
-<img width="600" src="https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/ff91c870-f76d-4424-ae78-a4a790c51e0f">
+
 <br>
 <br>
 USB-C Port |  |  |  |  |  |  |  |  |  |  |  | USB-C
