@@ -19,6 +19,7 @@ Insert 2 resistors of 5.1 kΩ each from ground to the CC pins (A5 / B5). This ha
 Wiring the two configuration pins CC with 5.1kΩ resistor signals the PD charger that it can apply 5V.<br> Without this resistor-combination, no voltage is applied.
 <br>
 <br>
+<img width="600" src="https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/e0ee1d09-cb92-4150-912b-c4f917b5ea79">
 
 <br>
 
