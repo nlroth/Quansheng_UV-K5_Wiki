@@ -24,8 +24,6 @@ Soldersite  | **GND**| Vbus | **CC** | SBU | bD- | aD+ | aD- | bD- | **CC**  | 
   |   ┃  |    | ┃ |  |  |  |  |  |┃  |  |  |
   |   ┗  | ━ |┻| ━━ | ━  | ━  | ━  | ━ | ┛  ||  | 
 
-<img width="600" src="https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/e54d4466-6392-4ecd-9c17-81ec3de9c037">
-
 Insert 2 resistors of 5.1 kΩ each from ground to the CC pins (A5 / B5). This hack requires a good eye and good nerves ;-)<br>
-Wiring the two configuration pins CC (Pin3 / Pin10 with 5.1kΩ signals the PD charger that it can apply 5V. Without this resistor-combination, no voltage is applied.
+Wiring the two configuration pins CC with 5.1kΩ resistor signals the PD charger that it can apply 5V.<br> Without this resistor-combination, no voltage is applied.
 
