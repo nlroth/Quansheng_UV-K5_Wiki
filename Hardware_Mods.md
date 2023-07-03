@@ -21,7 +21,7 @@ Wiring the two configuration pins CC with 5.1kΩ resistor signals the PD charger
 <br>
 
 <br>
-<br>
+
 USB-C Port |  |  |  |  |  |  |  |  |  |  |  | USB-C
 -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | --
 Soldersite  | **GND**| Vbus | **CC** | SBU | bD- | aD+ | aD- | bD- | **CC**  | SBU | Vbus | **GND**
