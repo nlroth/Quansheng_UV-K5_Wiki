@@ -1,4 +1,6 @@
 
+https://hackaday.com/2023/07/06/inexpensive-ham-radio-gets-upgrades-thanks-to-a-trojan/
+
 https://hackaday.com/2023/06/23/easy-modifications-for-inexpensive-radios/
 
 https://quansheng-radio.blogspot.com/2023/06/exploring-experimental-firmware-for.html
