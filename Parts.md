@@ -18,7 +18,7 @@ NJ 514 | Trans with Resistors | KRC109S | 3 | SOT-23 | KEC | https://github.com/
 BK1080 | FM Receiver IC | BK1080 Beken | 4 x 6 |   | Beken | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/BK1080_Datasheet_V2.7.pdf |   |   |  
 XS5822 | Charge IC | 2-4 Cell Bat Charger | 2 x 4 + 1 | E SOP8 | ShenZen ChipSourceTek | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/XS5822_Datasheet_V1.0.pdf |   |   |  
 ST7565P | Sitronix ST7565 | 65 x 132 Dot Matrix LCD Controller/Driver |   |   | Sitronix | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/ST7565P_Datasheet_V2.3.pdf |   |   |  
-ST7565R | Sitronix ST7566 | 66 x 132 Dot Matrix LCD Controller/Driver |   |   | Sitronix | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/ST7565R_Datasheet_V1.7.pdf |   |   |  
+ST7565R | Sitronix ST7566 | 65 x 132 Dot Matrix LCD Controller/Driver |   |   | Sitronix | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/ST7565R_Datasheet_V1.7.pdf |   |   |  
 DP32G030 | MicControler |   |   |   | Action Dynamic Tech.(HK) Trading Co. |   |   |   |  
 LBF32G030 | MicControler |   |   |   |   |   |   |   |  
 LN4898 | AudioAmpl. | Natlinear LN4898 | 2 x 4 | SOP8 | Natlinear | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/LN4898_Datasheet.pdf | 1W |   |  
