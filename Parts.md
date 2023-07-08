@@ -22,7 +22,7 @@ ST7565R | Sitronix ST7566 | 65 x 132 Dot Matrix LCD Controller/Driver |   |   
 DP32G030 | MicControler |   |   |   | Action Dynamic Tech.(HK) Trading Co. |   |   |   |  
 LBF32G030 | MicControler |   |   |   |   |   |   |   |  
 LN4898 | AudioAmpl. | Natlinear LN4898 | 2 x 4 | SOP8 | Natlinear | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/LN4898_Datasheet.pdf | 1W |   |  
-BL24C64 | EEPROM | Two-wire Serial EEPROM |   | JEDEC SOIC | Shanghai Belling Corp., Ltd | https://github.com/ludwich66/Quansheng_UV-K5_Firmware/blob/main/hardware/BL24C64_Datasheet.pdf | 64K 8192*8 |   |  
+BL24C64A | EEPROM | Two-wire Serial EEPROM |   | JEDEC SOIC | Shanghai Belling Corp., Ltd | https://github.com/ludwich66/Quansheng_UV-K5_Firmware/blob/main/hardware/BL24C64_Datasheet.pdf | 64K 8192*8 |   |  
 2301AA | P-Mosfet | Si2301DS | 3 | TO-236 (SOT-23) | Vishay | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/2301A_SI2301_Datasheet.pdf | 2,5V |   | 1,25W
 C4 | DualPowermanagemet Transistor | EMC4 / UMC4N / FMC4A | 5 |   |   |   |   |   |  
 C4 | LDO TLV700 | TLV70031DSER | 5 | SC-70, SOT | TI | https://github.com/ludwich66/Quansheng_UV-K5_Wiki/blob/main/hardware/C4_TLV700_TI_Datasheet.pdf | 1,8 V |   |  
@@ -34,5 +34,6 @@ UW ?244? |   |   |   |   |   |   |   |   |  
 N9 | Dual Switching Diode | DANN222 | 3 |   | ON |   |   |   |  
 N9 | Power Mosfet P ch | AP2307GN-HF-3 | 3 | SOT-23 | Advanced Power Electronics Corp. |   |   |   |  
 N9 | P-Channel 60-V (D-S) MOSFET | Si2309CDS | 3 | SOT-24 | Vishay Siliconix |   |   |   |  
-  |   |   |   |   |   |   |  
-
+BK4919  |   |   |  32 |   |   |   |  
+24  |   |   |  3 |   |   |   |  
+O4S 239  |   |   |  8 |   |   |   | 
