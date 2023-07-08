@@ -15,7 +15,7 @@ TY |   | 1SS241 |   |   |   |   |   |   |  
 2TY | PNP | S8550 | 3 |   |   | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/S8550-2TY-PNP_Datasheet.pdf |   |   |  
 NP6003 | NMOSFET | NP6003MR | 3 | SOT-23-3L | Natlinear | https://github.com/ludwich66/Quansheng_UV-K5_Wiki/blob/main/hardware/NP6003_NP6003MR_Datasheet.pdf |   |   |  
 NJ 514 | Trans with Resistors | KRC109S | 3 | SOT-23 | KEC | https://github.com/ludwich66/Quansheng_UV-K5_Wiki/blob/main/hardware/NJ_KRC109S_KEC_Datasheet.pdf |   |   |  
-BK1080 | FM Receiver IC | BK1080 Beken | 4 x 6 |   | Beken | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/BK1080_Datasheet_V2.7.pdf |   |   |  
+BK1080 | FM Receiver IC | BK1080 Beken | 2 x 4 |   | Beken | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/BK1080_Datasheet_V2.7.pdf |   |   |  
 XS5822 | Charge IC | 2-4 Cell Bat Charger | 2 x 4 + 1 | E SOP8 | ShenZen ChipSourceTek | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/XS5822_Datasheet_V1.0.pdf |   |   |  
 ST7565P | Sitronix ST7565 | 65 x 132 Dot Matrix LCD Controller/Driver |   |   | Sitronix | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/ST7565P_Datasheet_V2.3.pdf |   |   |  
 ST7565R | Sitronix ST7566 | 65 x 132 Dot Matrix LCD Controller/Driver |   |   | Sitronix | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/ST7565R_Datasheet_V1.7.pdf |   |   |  
