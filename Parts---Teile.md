@@ -16,7 +16,7 @@ C4 | LDO TLV700 | TLV70031DSER | 5 | SC-70, SOT | TI | https://github.com/amnemo
 DP32G030 | MicControler |   |   |   | Action Dynamic Tech.(HK) Trading Co. |   |   |   |  
 FG12864390-FKFW | LCD | FG12864390-FKFW | 12 |   |   |   | 128x64 px |   |  
 HC H3601 |   |   | 2x4 |   |   |   |   |   |  
-K6 |   | RD01MUS2B? |   |   |   |   |   |   |  
+K6 233|   | RD01MUS2B? |   |   |   |   |   |   |  
 LBF32G030 | MicControler |   |   |   |   |   |   |   |  
 LN4898 | AudioAmpl. | Natlinear LN4898 | 2 x 4 | SOP8 | Natlinear | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/LN4898_Datasheet.pdf | 1W |   |  
 N9 | Dual Switching Diode | DANN222 | 3 |   | ON |   |   |   |  
@@ -36,7 +36,7 @@ WA | Zenerdiode | PZU10*A/DG | 2 |   | NXP |   | 1,0V |   |  
 WD | Zenerdiode | BZT52C8V2 | 2 |   |   |   | 8,2V |   |  
 WL | Zenerdiode | PZU12*A/DG | 2 |   | NXP |   | 1,2V |   |  
 XS5822 | Charge IC | 2-4 Cell Bat Charger | 2 x 4 + 1 | E SOP8 | ShenZen ChipSourceTek | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/XS5822_Datasheet_V1.0.pdf |   |   |  
-  |   |   |   |   |   |   |   |   |  
+KC233 |   |   |   |   |   |   |   |   |  
   |   |   |   |   |   |   |  
 
 ![QS_UV_K5_export_4](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/85f86d50-f380-463e-9ced-c45411716a82)
