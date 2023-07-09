@@ -6,6 +6,7 @@
 * [Approvals & Certificates](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Approvals-and-Certificates)
 # [Hardware](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Hardware)
 * [PCB_Frontside](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/PCB_Frontside)
+* [PCB_Frontside](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/PCB_Frontside)
 * [PCB_Backside](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/PCB_Backside)
 * [Antenna](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Antenna)
 * [Battery](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Battery)
