@@ -5,7 +5,7 @@
 * [Manual_DE](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Manual_DE)
 * [Approvals & Certificates](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Approvals-and-Certificates)
 # [Hardware](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Hardware)
-* [PCB_Overview LNK2Amnemonic]](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/PCB-Overview)
+* [PCB_Overview LNK2Amnemonic](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki/PCB-Overview)
 * [PCB_Frontside](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/PCB_Frontside)
 * [PCB_Backside](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/PCB_Backside)
 * [Antenna](https://github.com/ludwich66/Quansheng_UV-K5_Firmware/wiki/Antenna)
