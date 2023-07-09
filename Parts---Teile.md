@@ -3,6 +3,8 @@ Label | Typ | Name | Pin | Case | Manufacturer | Datasheet-Link | Param1 | Param
 -- | -- | -- | -- | -- | -- | -- | -- | -- | --
 2301AA | P-Mosfet | Si2301DS | 3 | TO-236 (SOT-23) | Vishay | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/2301A_SI2301_Datasheet.pdf | 2,5V |   | 1,25W
 24 | Transistor PNP | DTC114ECA | 3 | SOT23 |   |   |   |   |  
+R24|   | 2SC4226 |   | SOT-323 |   | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/R24_2SC4226_Datasheet.PDF |   |   |  
+R24 | (P)  | 2SC3356 |   | SOT-23 |   | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/R24_2SC4226_Datasheet.PDF |   |   |  
 2TY | PNP | S8550 | 3 |   |   | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/S8550-2TY-PNP_Datasheet.pdf |   |   |  
 AN26.0 | 26Mhz Quartz |   |   |   |   | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/AN26.0_TCXO_KDS_Datasheet.pdf |   |   |  
 AO8814 | Mosfet |   |   |   | Alpha & Omega Semiconductor, Ltd. | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/AO8814_AlphaOmegaSemiconductors.pdf |   |   |  
@@ -24,8 +26,6 @@ NJ 514 | Trans with Resistors | KRC109S | 3 | SOT-23 | KEC | https://github.com/
 NP6003 | NMOSFET | NP6003MR | 3 | SOT-23-3L | Natlinear | https://github.com/ludwich66/Quansheng_UV-K5_Wiki/blob/main/hardware/NP6003_NP6003MR_Datasheet.pdf |   |   |  
 O4S 239 |   |   | 2x4 |   |   |   |   |   |  
 Q533 | LDO | AQ533 | 3 | SOT89 | acutechnoligy | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/AQ533_AcutechnologySemiconductor.pdf | 3,3V |   |  
-R24 |   | 2SC3356 |   | SOT-23 |   | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/R24_2SC4226_Datasheet.PDF |   |   |  
-R24 SC-70 |   | 2SC4226 |   | SOT-323 |   | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/R24_2SC4226_Datasheet.PDF |   |   |  
 SS14 | Schottkydiode | SS14 | 2 | DO-214AC |   |   | 40V | 1A |  
 ST7565P | Sitronix ST7565 | 65 x 132 Dot Matrix LCD Controller/Driver |   |   | Sitronix | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/ST7565P_Datasheet_V2.3.pdf |   |   |  
 ST7565R | Sitronix ST7566 | 65 x 132 Dot Matrix LCD Controller/Driver |   |   | Sitronix | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/ST7565R_Datasheet_V1.7.pdf |   |   |  
@@ -41,3 +41,6 @@ XS5822 | Charge IC | 2-4 Cell Bat Charger | 2 x 4 + 1 | E SOP8 | ShenZen ChipSou
 
 
 
+
+
+![QS_UV_K5_export_3](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/a0c3397b-ac9f-4e64-90eb-808782408056)
