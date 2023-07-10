@@ -41,7 +41,7 @@ XS5822 |   | Charge IC | 2-4 Cell Bat Charger | 2 x 4 + 1 | E SOP8 | ShenZen Ch
   |   |   |   |   |   |   |   |  
 
 ![QS_UV_K5_export_5](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/512b675c-f866-409b-b83a-fe6cca86d4f4)
-![QS_UV_K5_export_4](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/85f86d50-f380-463e-9ced-c45411716a82)
+
 
 https://github.com/ludwich66/Quansheng_UV-K5_Wiki/blob/main/hardware/QS_UV_K5_export_4.svg
 
