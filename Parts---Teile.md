@@ -1,5 +1,4 @@
 
-
 Label |   | Typ | Name | Pin | Case | Manufacturer | Datasheet-Link | Param1 | Param2 | Param3
 -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | --
 2301AA | I, H | P-Mosfet | Si2301DS | 3 | TO-236 (SOT-23) | Vishay | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/2301A_SI2301_Datasheet.pdf | 2,5V |   | 1,25W
@@ -22,23 +21,26 @@ N9 |   | Power Mosfet P ch | AP2307GN-HF-3 | 3 | SOT-23 | Advanced Power Electr
 N9 |   | P-Channel 60-V (D-S) MOSFET | Si2309CDS | 3 | SOT-24 | Vishay Siliconix |   |   |   |  
 NJ 514 |   | Trans with Resistors | KRC109S | 3 | SOT-23 | KEC | https://github.com/ludwich66/Quansheng_UV-K5_Wiki/blob/main/hardware/NJ_KRC109S_KEC_Datasheet.pdf |   |   |  
 NP6003 |   | NMOSFET | NP6003MR | 3 | SOT-23-3L | Natlinear | https://github.com/ludwich66/Quansheng_UV-K5_Wiki/blob/main/hardware/NP6003_NP6003MR_Datasheet.pdf |   |   |  
-O4S 239 |   |   |   | 2x4 |   |   |   |   |   |  
+O4S |   | SoundSamples?? |   | 2x4 |   |   |   |   |   |  
 Q533 | C | LDO | AQ533 | 3 | SOT89 | acutechnoligy | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/AQ533_AcutechnologySemiconductor.pdf | 3,3V |   |  
 R24 |   | Small | 2SC3356 |   | SOT-23 |   | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/R24_2SC4226_Datasheet.PDF |   |   |  
 R24 |   | Big | 2SC4226 |   | SOT-323 |   | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/R24_2SC4226_Datasheet.PDF |   |   |  
 SS14 |   | Schottkydiode | SS14 | 2 | DO-214AC |   |   | 40V | 1A |  
-FG12864390-FKFW |   | LCD | FG12864390-FKFW | 12 |   |   |   | 128x64 px |   |  
+FG12864390-FKFW |   | LCD | FG12864390-FKFW | 12 | Modul |   |   | 128x64 px |   |  
 ST7565P |   | Sitronix ST7565 | 65 x 132 Dot Matrix LCD Controller/Driver |   |   | Sitronix | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/ST7565P_Datasheet_V2.3.pdf |   |   |  
 ST7565R |   | Sitronix ST7566 | 65 x 132 Dot Matrix LCD Controller/Driver |   |   | Sitronix | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/ST7565R_Datasheet_V1.7.pdf |   |   |  
-TY |   |   | 1SS241 |   |   |   |   |   |   |  
-UD |   | Zenerdiode | KDS114E // BZX84J-C43 | 2 | SOD-323F | NXP |   |   |   |  
-UW ?244? | A |   |   |   | SOT89 |   |   |   |   |  
-WA |   | Zenerdiode | PZU10*A/DG | 2 |   | NXP |   | 1,0V |   |  
-WD |   | Zenerdiode | BZT52C8V2 | 2 |   |   |   | 8,2V |   |  
-WL |   | Zenerdiode | PZU12*A/DG | 2 |   | NXP |   | 1,2V |   |  
-XS5822 |   | Charge IC | 2-4 Cell Bat Charger | 2 x 4 + 1 | E SOP8 | ShenZen ChipSourceTek | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/XS5822_Datasheet_V1.0.pdf |  
-  |   |   |   |   |   |   |  
+TY |   |   | 1SS241 | 2 |   |   |   |   |   |  
+TY |   | Zenerdiode 20V | BZX84J-C20 TY | 2 |   | NXP |   |   |   |  
+UD |   | Diode | KDS114E | 2 | SOD-323F | KEC |   |   |   |  
+UW ?244? | A |   |   | 3 | SOT89 |   |   |   |   |  
+WA |   | Zenerdiode 1,0V | PZU10*A/DG | 2 |   | NXP |   | 1,0V |   |  
+WD |   | Zenerdiode 8,2V | BZT52C8V2 | 2 |   | NXP |   | 8,2V |   |  
+WL |   | Zenerdiode 1,2V | PZU12*A/DG | 2 |   | NXP |   | 1,2V |   |  
+XS5822 |   | Charge IC | 2-4 Cell Bat Charger | 2 x 4 + 1 | E SOP8 | ShenZen ChipSourceTek | https://github.com/amnemonic/Quansheng_UV-K5_Firmware/blob/main/hardware/XS5822_Datasheet_V1.0.pdf |   |   |  
+  |   |   |   |   |   |   |   |   |   |  
+  |   |   |   |   |   |   |   |  
 
+![QS_UV_K5_export_5](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/512b675c-f866-409b-b83a-fe6cca86d4f4)
 ![QS_UV_K5_export_4](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/assets/12202733/85f86d50-f380-463e-9ced-c45411716a82)
 
 https://github.com/ludwich66/Quansheng_UV-K5_Wiki/blob/main/hardware/QS_UV_K5_export_4.svg
